@@ -1,7 +1,6 @@
 # Harmonic Health: Predictive Wellness Hub
 
-![Harmonic Health App Screenshot](https://placehold.co/800x450/2E8BC0/FFFFFF?text=Harmonic+Health+App+Preview)
-*(Replace this placeholder image with a screenshot of your deployed app!)*
+![Harmonic Health App Screenshot](Webapp.png)
 
 ## 🌟 Overview
 
